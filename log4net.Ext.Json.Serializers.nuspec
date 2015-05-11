@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+    <metadata>
+        <id>log4net.Ext.Json.Serializers</id>
+        <version>$version$</version>
+        <authors>https://github.com/smarts</authors>
+        <owners>https://github.com/smarts</owners>
+        <licenseUrl>http://opensource.org/licenses/mit</licenseUrl>
+        <projectUrl>http://github.com/smarts/log4net.Ext.Json.Serializers</projectUrl>
+        <requireLicenseAcceptance>true</requireLicenseAcceptance>
+        <description>Serializer(s) meant to be used in conjunction w/ the log4net.Ext.Json library.</description>
+        <copyright>Copyright 2015</copyright>
+        <tags>logging log tracing logfiles json log4net extension</tags>
+        <dependencies>
+          <dependency id="log4net.Ext.Json" version="1.2.13.20140804"/>
+          <dependency id="Newtonsoft.Json" version="6.0.8"/>
+        </dependencies>
+    </metadata>
+    <files>
+      <file src="lib\**\log4net.ext.json.serializers.dll" target="lib\"/>
+    </files>
+</package>
