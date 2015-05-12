@@ -57,9 +57,6 @@
     <Compile Include="..\shared\JsonDotNetSerializer.cs">
       <Link>JsonDotNetSerializer.cs</Link>
     </Compile>
-    <Compile Include="..\shared\RendererMapJsonTextWriter.cs">
-      <Link>RendererMapJsonTextWriter.cs</Link>
-    </Compile>
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config">
