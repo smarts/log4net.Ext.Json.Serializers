@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "log4net.Ext.Json.Serializers.net20", "log4net.Ext.Json.Serializers.net20\log4net.Ext.Json.Serializers.net20.csproj", "{8D56515E-A897-4682-B42B-82BBB48B5B9B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "log4net.Ext.Json.Serializers.net35", "log4net.Ext.Json.Serializers.net35\log4net.Ext.Json.Serializers.net35.csproj", "{2449756A-91D7-4FDE-AC8E-064F0E175A27}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "log4net.Ext.Json.Serializers.net35-client", "log4net.Ext.Json.Serializers.net35-client\log4net.Ext.Json.Serializers.net35-client.csproj", "{86B7806D-06AA-4DDF-8CB0-39F759753574}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8D56515E-A897-4682-B42B-82BBB48B5B9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D56515E-A897-4682-B42B-82BBB48B5B9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D56515E-A897-4682-B42B-82BBB48B5B9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D56515E-A897-4682-B42B-82BBB48B5B9B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2449756A-91D7-4FDE-AC8E-064F0E175A27}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2449756A-91D7-4FDE-AC8E-064F0E175A27}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2449756A-91D7-4FDE-AC8E-064F0E175A27}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2449756A-91D7-4FDE-AC8E-064F0E175A27}.Release|Any CPU.Build.0 = Release|Any CPU
+		{86B7806D-06AA-4DDF-8CB0-39F759753574}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86B7806D-06AA-4DDF-8CB0-39F759753574}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86B7806D-06AA-4DDF-8CB0-39F759753574}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86B7806D-06AA-4DDF-8CB0-39F759753574}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
